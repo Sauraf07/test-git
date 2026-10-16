@@ -1,4 +1,4 @@
-print("Hello Saurav")
+print("Hello Viplove")
 print("hello ")
 
 def add(*args):
@@ -10,7 +10,7 @@ def add(*args):
 def mult(*args):
     result = 1
     for i in args:
-        result *= i
+        result = result*i
     return result
 
 print(add(10, 20, 30, 40))
@@ -19,3 +19,4 @@ print(multiply(4,5))
 print("hello From Vishal!!!")
 
 print("Hello From Sandhya!!!")
+print("Hello from Prabhanshu!!!")
