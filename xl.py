@@ -7,7 +7,7 @@ def add(*args):
         result += i
     return result
 
-def multiply(*args):
+def mult(*args):
     result = 1
     for i in args:
         result *= i
