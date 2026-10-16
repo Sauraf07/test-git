@@ -10,7 +10,7 @@ def add(*args):
 def multiply(*args):
     result = 1
     for i in args:
-        result *= i
+        result = result*i
     return result
 
 print(add(10, 20, 30, 40))
