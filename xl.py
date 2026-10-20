@@ -7,16 +7,27 @@ def add(*args):
         result += i
     return result
 
-def multiply(*args):
+def multipy(*args):
     result = 1
     for i in args:
         result = result*i
     return result
 
 print(add(10, 20, 30, 40))
-print(multiply(4,5))
+print(multipy(4,5))
 
 print("hello From Vishal!!!")
 
 print("Hello From Sandhya!!!")
 print("Hello from Prabhanshu!!!")
+
+# add new line
+print("Hello Aditya")
+print("kps")
+print("kps 123")
+print("kps 1234")
+print("kps 1235")
+print("kps 12356")
+
+
+
