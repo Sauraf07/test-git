@@ -7,14 +7,14 @@ def add(*args):
         result += i
     return result
 
-def multiply(*args):
+def multipy(*args):
     result = 1
     for i in args:
         result = result*i
     return result
 
 print(add(10, 20, 30, 40))
-print(multiply(4,5))
+print(multipy(4,5))
 
 print("hello From Vishal!!!")
 
