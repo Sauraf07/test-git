@@ -1,3 +1,4 @@
+ prachi1
 num = int(input("Enter the number :- "))
 if num<=1:
     print(num , "is not prime number")
@@ -8,3 +9,11 @@ else :
             break
     else:
         print(num ,"is prime number" )
+
+num = int(input("Enter the number : -"))
+
+for i in range(2,num//2+1):
+    if i % num != 0:
+        print(num ,"is prime number")
+        break
+  test-vip
