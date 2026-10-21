@@ -18,4 +18,3 @@ for i in l1:
 print(f"largest number = {largest}")
 print()
 print(f"second largest number = {second}")
-
