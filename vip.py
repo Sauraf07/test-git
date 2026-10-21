@@ -8,3 +8,5 @@ else :
             break
     else:
         print(num ,"is prime number" )
+
+
