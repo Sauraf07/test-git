@@ -6,5 +6,5 @@ for i in range(2,num//2+1):
         break
     
     
-    
+print('num'+2)
 print("num")    
