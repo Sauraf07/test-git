@@ -23,3 +23,4 @@ print("Multiplication:", multiply(10, 5))
 print("Division:", divide(10, 5))
 
 print("new line")
+print("njbcufgyuyusyu")
