@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 num = int(input("Enter the number : "))
 
 
@@ -7,3 +8,6 @@ for i in range(2,(num//2)+1):
         break
 
     
+=======
+print("bjdsguyfyu")
+>>>>>>> 355a911 (new change)
