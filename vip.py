@@ -8,5 +8,4 @@ else:
             print(num, "is not a prime number")
             break
     else:
-        print(num, "is a prime number")
- 
+        print(f"{num} is a prime number")
